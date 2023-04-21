@@ -1,0 +1,1 @@
+autosweeps account(s) on the ethereum mainnet and other infura supported L2s
